@@ -1,0 +1,8 @@
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+Cole Devita
+To complete this process, I followed the guided directions and utilized  the vim function to do so, along with various save and quite commands. The only real issue I had was trying to figure out how to write this text on the top of the file, which I was never able to do, hence why it is down here at the bottom beneath the text from the first part.
